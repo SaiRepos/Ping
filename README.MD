@@ -3,6 +3,8 @@ Ping
 
 [![Build Status](https://travis-ci.com/SaiRepos/Ping.svg?branch=master)](https://travis-ci.org/SaiRepos/Ping)
 
+[*Kanban Board*](https://github.com/users/SaiRepos/projects/1)
+
 Ping is a library that can help Spring applications to decide whether to execute certain methods or not based on Resource availability.
 For eg. Ping can help service A to avoid call to service B in case service B is down and A can then optionally call a fallback method instead.
 
